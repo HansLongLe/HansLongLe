@@ -5,6 +5,8 @@
   * I'm looking to colaborate with other creators.
   * I appreciate any feedbacks, or any constructive criticism, as I take them as a form of an advice and a way to improve.
 
+---
+
 ### Contact me
 
 <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
@@ -13,6 +15,8 @@
 <a href="mailto:lunde@adobe.com?subject=[GitHub]%20">
 <img src=email-icon-black-simple_5f4567ca24989.png width="30" height="30">
 </a>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansLongLe)]
 
