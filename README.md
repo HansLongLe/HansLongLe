@@ -7,14 +7,19 @@
 
 ---
 
+<details>
+ <summary>
+  Github stats
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansLongLe)
+ </summary>
+</details>
 
-## Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansLongLe)
-
----
-
-## Programming languages
-![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)
+<details>
+ <summary>
+   Programming languages
+  ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)
+ </summary>
+</details>
 
 ---
 
