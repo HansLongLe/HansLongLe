@@ -8,7 +8,10 @@
 ### Contact me
 
 <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
- <img src="LI-In-Bug.png" width="50" height="50">
+ <img src="linkedin_black_logo_icon_147114.png" width="30" height="30">
+</a>
+<a href="mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans">
+<img src=png-transparent-email-address-electronic-mailing-list-logo-internet-email-miscellaneous-angle-triangle.png width="30" height="30">
 </a>
 
 <!--
