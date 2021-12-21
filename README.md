@@ -21,7 +21,9 @@
  <summary>
    Programming languages
  </summary>
- [![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)]
+ 
+ ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)
+ 
 </details>
 
 ---
