@@ -6,7 +6,9 @@
   * I appreciate any feedbacks, or any constructive criticism, as I take them as a form of an advice and a way to improve.
 
 ### Contacts
-[![Image](LI-In-Bug.png)](https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge)
+<a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
+ <img src="LI-In-Bug.png" />
+</a>
 <!--
 **HansLongLe/HansLongLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
