@@ -8,7 +8,7 @@
 ### Contact me
 
 <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
- <img src="LI-In-Bug.png" width="100" height="100">
+ <img src="LI-In-Bug.png" width="50" height="50">
 </a>
 
 <!--
