@@ -5,10 +5,8 @@
   * I'm looking to colaborate with other creators.
   * I appreciate any feedbacks, or any constructive criticism, as I take them as a form of an advice and a way to improve.
 
-### Contacts
-<a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge" target="_blank">
- <img src="LI-In-Bug.png" width:"50" heigt:"50" />
-</a>
+### Contact me
+[![Image](LI-In-Bug.png)](https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge){:target="_blank"}
 <!--
 **HansLongLe/HansLongLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
