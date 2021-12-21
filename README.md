@@ -28,14 +28,18 @@
 
 ---
 
-### Contact me
-
-<a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
+<summary>
+ Contact me
+ <details>
+  <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
  <img src="linkedin_black_logo_icon_147114.png" width="30" height="30">
 </a>
 <a href="mailto:lunde@adobe.com?subject=[GitHub]%20">
 <img src=email-icon-black-simple_5f4567ca24989.png width="30" height="30">
 </a>
+  </details>
+</summary>
+
 
 
 <!--
