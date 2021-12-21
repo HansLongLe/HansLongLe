@@ -7,6 +7,9 @@
 
 ### Contacts
 
+<div class="badge-base LI-profile-badge" data-locale="cs_CZ" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jan-le-218113227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">Jan Le</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **HansLongLe/HansLongLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
