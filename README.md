@@ -19,12 +19,12 @@
 ---
 
 ## Github stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansLongLe)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansLongLe)
 
 ---
 
 ## Programming languages
-[![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)]
+![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansLongLe&layout=compact&theme=buefy&hide_border=true)
 
 
 
