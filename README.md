@@ -11,7 +11,7 @@
  <img src="linkedin_black_logo_icon_147114.png" width="30" height="30">
 </a>
 <a href="mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans">
-<img src=png-transparent-email-address-electronic-mailing-list-logo-internet-email-miscellaneous-angle-triangle.png width="30" height="30">
+<img src=email-icon-black-simple_5f4567ca24989.png width="30" height="30">
 </a>
 
 <!--
