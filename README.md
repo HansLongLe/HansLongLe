@@ -7,6 +7,7 @@
 
 ### Contact me
 [![Image](LI-In-Bug.png)](https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge)
+<img src="LI-In-Bug.png" width="100" height="100">
 <!--
 **HansLongLe/HansLongLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
