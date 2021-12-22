@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,65:090979,100:020024&text=Hi%20there,%20I'm%20Jan%20👋&fontSize=35&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,65:090979,100:020024&text=Hi%20there,%20I'm%20Jan%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn)
 ### 
 
 ## About me
