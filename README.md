@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-### Hi there, I'm Jan 👋
+![### Hi there, I'm Jan 👋](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 ## About me
   * I'm a university student currently studying software technology engineering at Via Horsens.
