@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00d4ff)
 ### Hi there, I'm Jan 👋
 
 ## About me
