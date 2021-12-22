@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### Hi there, I'm Jan 👋
 
 ## About me
@@ -28,7 +29,7 @@
 
 ---
 
- Contact me
+ How to reach me
  
 <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
  <img src="linkedin_black_logo_icon_147114.png" width="30" height="30">
