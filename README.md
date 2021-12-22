@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,65:090979,100:020024)
-### Hi there, I'm Jan 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,65:090979,100:020024&text=Hi%20there,%20I'm%20Jan%20👋)
+### 
 
 ## About me
   * I'm a university student currently studying software technology engineering at Via Horsens.
