@@ -34,7 +34,7 @@
 <a href="https://dk.linkedin.com/in/jan-le-218113227?trk=profile-badge">
  <img src="linkedin1.png" width="30" height="30" color="blue">
 </a>
-<a href="mailto:lunde@adobe.com?subject=[GitHub]%20">
+<a href="mailto:hanslongle@gmail.com?subject=[GitHub]%20">
 <img src=email1.png width="30" height="30">
 </a>
 
